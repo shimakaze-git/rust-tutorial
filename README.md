@@ -1,1 +1,3 @@
-# komoju-py
+# Rust
+
+Rustの学習
